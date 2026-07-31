@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-.vscode/*
 .idea/*
 .pnp.*
 .yarn/*
@@ -15,3 +14,4 @@ yarn-error.log
 .docusaurus/
 build/
 types
+config.bat
